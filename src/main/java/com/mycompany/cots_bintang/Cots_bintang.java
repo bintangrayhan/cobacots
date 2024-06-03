@@ -32,7 +32,7 @@ public class Cots_bintang {
     public static void performOperation(int pilihan, double angka1, double angka2) {
         switch (pilihan) {
             case 1:
-                hasil = angka1 + angka2;
+                hasil = angka1 +  angka2;
                 break;
             case 2:
                 hasil = angka1 - angka2;
