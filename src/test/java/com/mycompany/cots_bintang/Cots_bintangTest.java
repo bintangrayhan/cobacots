@@ -26,7 +26,7 @@ public class Cots_bintangTest {
     @Test
     public void testPerkalian() {
         double result = Cots_bintang.performOperation(3, 5, 3);
-        assertEquals(15, result, 0.001);
+        assertEquals(20, result, 0.001);
     }
 
     @Test
