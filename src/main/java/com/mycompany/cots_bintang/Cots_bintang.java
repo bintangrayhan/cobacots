@@ -1,3 +1,4 @@
+
 package com.mycompany.cots_bintang;
 
 import java.util.Scanner;
@@ -24,7 +25,7 @@ public class Cots_bintang {
 
     private static void displayMenu() {
         System.out.println("Pilih operasi yang diinginkan:");
-        System.out.println("1. Penambahan (+)");
+        System.out.println("1. Pena mbahan (+)");
         System.out.println("2. Pengurangan (-)");
         System.out.println("3. Perkalian (*)");
         System.out.println("4. Pembagian (/)");
